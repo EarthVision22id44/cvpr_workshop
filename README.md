@@ -6,7 +6,7 @@ This repository provides code to reproduce results from the paper [Simultaneous 
 
 The training setup is as in the following diagram:
 
-<img src="https://github.com/EarthVision22id44/cvpr_workshop/blob/master/figures/DIP4DVarSR.pdf" width="400">
+<img src="https://github.com/EarthVision22id44/cvpr_workshop/blob/master/figures/DIP4DVarSR.png" width="400">
 
 The rest of the README describes how to reproduce the results.
 
