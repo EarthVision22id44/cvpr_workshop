@@ -28,4 +28,4 @@ You can choose: the downscaling factor r in [1,2,4,8], the level of noise noise_
 Run Main experiments
 ---
 - run ./main_4DVar.py
-- run ./main_DIP.py
+- run ./main_dip4DarSR.py
