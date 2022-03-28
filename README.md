@@ -23,9 +23,9 @@ run ./data/simulate_data.py
 Run Data Assimilation demo
 ---
 in the jupyter notebook ./notebook_demo/1.Data_Assimilation, you can run assimilation examples with 4DVar, Reg. 4DVar and DIP 4DVar algorithms
-You can choose, $r \in [1,2,4,8]$ the downscaling factor, noise_percent the level of noise, and the sample index i corresponding to the $i^{th}$ trajectory in the database
+You can choose: the downscaling factor r in [1,2,4,8], the level of noise noise_percent, and the sample index i corresponding to a trajectory in the database.
 
 Run Main experiments
 ---
-run ./main_4DVar.py
-run ./main_DIP.py
+- run ./main_4DVar.py
+- run ./main_DIP.py
